@@ -1,4 +1,4 @@
-# Week 3 Lab: On My Grind
+# Week 5 Lab: Crypto Hustle Lite
 
 ## CodePath WEB 102 Group 6
 
