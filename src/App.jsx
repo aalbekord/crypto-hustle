@@ -7,7 +7,7 @@ function App() {
     const API_KEY = import.meta.env.VITE_APP_API_KEY
     const [list, setList] = useState(null)
     const [filteredResults, setFilteredResults] = useState([])
-    const [searchInput, setSearchInput] = useState("")
+    const [searchInput, setSearchInput] = useState("") 
 
     useEffect(() => {
         const fetchAllCoinData = async () => {
