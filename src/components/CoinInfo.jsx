@@ -1,4 +1,3 @@
-import "./CoinInfo.css"
 import { useState, useEffect } from "react"
 const CoinInfo = ({ image, name, symbol }) => {
     const API_KEY = import.meta.env.VITE_APP_API_KEY
