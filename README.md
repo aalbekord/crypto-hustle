@@ -1,4 +1,4 @@
-# Week 5 Lab: Crypto Hustle Lite
+# Week 6 Lab: Crypto Hustle Pro
 
 ## CodePath WEB 102 Group 6
 
